@@ -17,7 +17,7 @@ and
 
 $$y = R \log ( tan(\pi / 4 + \phi / 2) )$$
 
-where $R = 6371$, $\phi$ is the latitude, $\psi$ is the longitude and $\phi_{0} = 2.347324$ is __the longitude of Châtelet-Les Halles__ (why?). These formulas come from the Mercator projection. The value for $R$ corresponds to the Earth radius (in km). 
+where $R = 6371$, $\phi$ is the latitude, $\psi$ is the longitude and $\psi_{0} = 2.347324$ is __the longitude of Châtelet__ (why?). These formulas come from the Mercator projection. The value for $R$ corresponds to the Earth radius (in km). 
 
 ## Data Cleaning
 
