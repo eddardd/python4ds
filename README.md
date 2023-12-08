@@ -30,13 +30,8 @@ This is a _hands-on_ course. In this sense, you are expected to learn from pract
 | 24/11     | <ul> <li> Graph Data (2h) </li> <li> Practical Session 9 (2h) </li>  </ul> |
 | 01/12     | <ul> <li> Probabilistic Modeling (2h) </li> <li> Practical Session 10 (2h) </li> </ul> |<ul><li>[Why Python is popular for Machine Learning?](https://www.youtube.com/watch?v=kSXZHRsWXfU) (10min)</li></ul>|
 | 08/12     | <ul> <li> Midterm solution & Discussion (2h) </li> <li> Practical Session 11 (2h) </li> </ul> |
-
-__Note.__ From this date further the planning is somewhat preliminar and prone to change.
-
-| Day/Month | Subject |Additional Content   |
-|-----------|---------|---------------------|
-| 15/12     | <ul> <li> Web Scrapping with Beautiful Soup (2h) </li> <li> Practical Session 12 (2h) </li> <ul> |
-| 12/01     | <ul> <li> Project Guidance (2h) </li> <li> Practical Session 13 (2h) </li> <ul> |
+| 15/12     | <ul> <li> Project Guidance (2h) </li> <li> Practical Session 12 (2h) </li> <ul> |
+| 12/01     | Course Wrap Up |
 
 ## Python Libraries reference
 
